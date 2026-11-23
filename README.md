@@ -6,9 +6,9 @@ Notes written as Jupyter notebooks. Each one works through the maths (derivation
 
 | Notebook | Topics |
 |---|---|
-| [MLE and Linear Regression](notes/mle_linear_regression.ipynb) | Maximum likelihood, least squares and the normal equations, ridge and lasso, MAP estimation, why lasso is sparse, cross-validation, bias-variance tradeoff |
-| [Logistic Regression](notes/logistic_regression.ipynb) | Sigmoid and log-odds, cross-entropy loss, gradient and Hessian derivations, convexity, GD and SGD, separable data and L2, softmax regression, Naive Bayes, precision/recall, ROC and AUC |
-| [Nonparametric Methods](notes/nonparametric_methods.ipynb) | k-nearest neighbours, curse of dimensionality, decision trees (CART), bagging, random forests, out-of-bag error, feature importance (MDI and permutation) |
+| [MLEs, Linear Regression and Learning Theory](notes/MLEs%2C%20Linear%20Regression%20and%20Learning%20Theory.ipynb) | Maximum likelihood, least squares and the normal equations, ridge and lasso, MAP estimation, why lasso is sparse, cross-validation, bias-variance tradeoff |
+| [Logistic Regression](notes/Logistic%20Regression.ipynb) | Sigmoid and log-odds, cross-entropy loss, gradient and Hessian derivations, convexity, GD and SGD, separable data and L2, softmax regression, Naive Bayes, precision/recall, ROC and AUC |
+| [Nonparametric Methods](notes/Nonparametric%20Methods.ipynb) | k-nearest neighbours, curse of dimensionality, decision trees (CART), bagging, random forests, out-of-bag error, feature importance (MDI and permutation) |
 
 ## Running the notebooks
 
